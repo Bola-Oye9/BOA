@@ -1,4 +1,2 @@
 John
 Peter
-Joshua
-Dominion
